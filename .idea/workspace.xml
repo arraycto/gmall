@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a602bbac-f07f-4e2b-b189-916697c8e609" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/dao.2021-12-04.0.log" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/dao.2021-12-05.0.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,7 +126,7 @@
       <workItem from="1638668671155" duration="24000" />
       <workItem from="1638668712717" duration="1073000" />
       <workItem from="1638669859597" duration="6807000" />
-      <workItem from="1638679608015" duration="1149000" />
+      <workItem from="1638679608015" duration="1665000" />
     </task>
     <task id="LOCAL-00001" summary="add mock db module">
       <created>1638675706307</created>
@@ -137,7 +135,14 @@
       <option name="project" value="LOCAL" />
       <updated>1638675706307</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add readme">
+      <created>1638681255618</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1638681255618</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,7 +150,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add mock db module" />
-    <option name="LAST_COMMIT_MESSAGE" value="add mock db module" />
+    <MESSAGE value="add readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="add readme" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
