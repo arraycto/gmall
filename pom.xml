@@ -18,6 +18,7 @@
         <module>gmall-mock-log</module>
         <module>gmall-common</module>
         <module>gmall-logger</module>
+        <module>gmall-mock-db</module>
     </modules>
 
     <properties>
