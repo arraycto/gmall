@@ -7,6 +7,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="gmall-mock-db" />
         <module name="gmall-logger" />
         <module name="gmall-mock-log" />
         <module name="gmall-common" />
@@ -16,6 +17,7 @@
       <module name="gmall" target="8" />
       <module name="gmall-common" target="8" />
       <module name="gmall-logger" target="8" />
+      <module name="gmall-mock-db" target="8" />
       <module name="gmall-mock-log" target="8" />
     </bytecodeTargetLevel>
   </component>
@@ -23,6 +25,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="gmall-common" options="-parameters" />
       <module name="gmall-logger" options="-parameters" />
+      <module name="gmall-mock-db" options="-parameters" />
       <module name="gmall-mock-log" options="-parameters" />
     </option>
   </component>

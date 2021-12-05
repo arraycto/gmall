@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/gmall.iml" filepath="$PROJECT_DIR$/gmall.iml" />
       <module fileurl="file://$PROJECT_DIR$/gmall-common/gmall-common.iml" filepath="$PROJECT_DIR$/gmall-common/gmall-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/gmall-logger/gmall-logger.iml" filepath="$PROJECT_DIR$/gmall-logger/gmall-logger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gmall-mock-db/gmall-mock-db.iml" filepath="$PROJECT_DIR$/gmall-mock-db/gmall-mock-db.iml" />
       <module fileurl="file://$PROJECT_DIR$/gmall-mock-log/gmall-mock-log.iml" filepath="$PROJECT_DIR$/gmall-mock-log/gmall-mock-log.iml" />
     </modules>
   </component>
